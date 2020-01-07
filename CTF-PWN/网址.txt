@@ -23,3 +23,5 @@ https://www.exploit-db.com/
 
 https://seedsecuritylabs.org/Labs_16.04/Software/
 
+书籍：
+https://drive.google.com/open?id=1W_WowXR503oae22Ra-zQJYzfQIjdA8-i
